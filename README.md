@@ -7,21 +7,25 @@ This is a web application called FakeNews, which is designed to detect and class
 To run the FakeNews web app locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone <repository_url>
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd FakeNews
    ```
 
 3. Install the required dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. Run the Flask development server:
+
    ```bash
    flask run
    ```
@@ -63,4 +67,10 @@ Feel free to use, modify, and distribute the code for personal or commercial pur
 
 ## Acknowledgments
 
-The FakeNews web app and machine learning models were developed by Hare Krishna.
+The FakeNews web app and machine learning models are maintained and engineered by Moksh Jain.
+
+---
+
+For questions or collaboration, contact me at [mokshjaindev@gmail.com](mailto:mokshjaindev@gmail.com).
+
+Copyright (c) 2026 Moksh Jain
