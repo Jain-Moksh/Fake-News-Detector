@@ -9,7 +9,7 @@ To run the FakeNews web app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/Jain-Moksh/Fake-News-Detector)
    ```
 
 2. Navigate to the project directory:
